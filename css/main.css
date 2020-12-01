@@ -1,0 +1,10 @@
+body{
+    background-color:black;
+}
+.soon-caption,.coming-caption,.dope-caption{
+    margin-top:-12px;
+    display:none;
+}
+.something-caption{
+    display:none;
+}
